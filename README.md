@@ -1,3 +1,4 @@
+[![GitHub Actions](https://github.com/matebowski/playwright-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/matebowski/playwright-automation/actions)
 # Playwright Test Automation Project
 
 ## Project Overview
