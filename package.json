@@ -1,0 +1,25 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matebowski/playwright-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matebowski/playwright-automation/issues"
+  },
+  "homepage": "https://github.com/matebowski/playwright-automation#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.5.0",
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
